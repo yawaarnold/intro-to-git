@@ -1,2 +1,2 @@
-# intro-to-git
+intro-to-git
 github introductory repository
